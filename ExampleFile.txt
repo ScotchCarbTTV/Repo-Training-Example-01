@@ -1,0 +1,4 @@
+Hello world, my name is default!
+
+//This is the example file.
+//You should change the name from default.
