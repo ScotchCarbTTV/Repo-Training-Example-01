@@ -1,4 +1,4 @@
-Hello world, my name is default!
+Hello world, my name is Ian!
 
 //This is the example file.
 //You should change the name from default.
