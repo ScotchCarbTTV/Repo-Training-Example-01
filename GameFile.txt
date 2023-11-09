@@ -1,0 +1,2 @@
+private int coolThing = 12;
+Character HeroBrine = new Character(evil, knowsWhereYouAre, unstoppable(true));
